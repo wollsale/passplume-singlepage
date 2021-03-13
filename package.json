@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "parcel watch index.html --public-url ./ --no-hmr",
+    "build": "parcel build <your entry file>"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.8"
+  }
+}
